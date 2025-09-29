@@ -1,0 +1,31 @@
+product_id,product_name,category,price,quantity_sold,rating,revenue
+1,Laptop Pro,Electronics,1299.99,45,4.5,58499.55
+2,Wireless Mouse,Electronics,29.99,120,4.2,3598.8
+3,Office Chair,Furniture,249.99,30,4.7,7499.7
+4,Desk Lamp,Furniture,39.99,75,4.3,2999.25
+5,Notebook Set,Stationery,12.99,200,4.1,2598.0
+6,Pen Pack,Stationery,5.99,350,4.0,2096.5
+7,Monitor 27",Electronics,399.99,60,4.6,23999.4
+8,Keyboard Mechanical,Electronics,89.99,85,4.4,7649.15
+9,Bookshelf,Furniture,179.99,40,4.5,7199.6
+10,Desk Organizer,Stationery,19.99,150,4.2,2998.5
+11,USB Hub,Electronics,24.99,95,4.1,2374.05
+12,Standing Desk,Furniture,499.99,25,4.8,12499.75
+13,Whiteboard,Stationery,89.99,55,4.3,4949.45
+14,Webcam HD,Electronics,79.99,70,4.4,5599.3
+15,Filing Cabinet,Furniture,299.99,35,4.6,10499.65
+16,Highlighter Set,Stationery,8.99,180,3.9,1618.2
+17,Laptop Stand,Electronics,49.99,110,4.5,5498.9
+18,Printer Wireless,Electronics,199.99,50,4.3,9999.5
+19,Conference Chair,Furniture,349.99,20,4.7,6999.8
+20,Calculator,Electronics,19.99,140,4.0,2798.6
+21,Desk Mat,Stationery,15.99,125,4.2,1998.75
+22,Monitor Arm,Electronics,119.99,45,4.6,5399.55
+23,Paper Shredder,Electronics,89.99,35,4.1,3149.65
+24,Wall Clock,Furniture,29.99,80,4.0,2399.2
+25,Stapler Heavy Duty,Stationery,24.99,90,4.3,2249.1
+26,Headphones Wireless,Electronics,149.99,75,4.7,11249.25
+27,Footrest,Furniture,39.99,65,4.2,2599.35
+28,Tape Dispenser,Stationery,9.99,160,3.8,1598.4
+29,Document Camera,Electronics,299.99,30,4.5,8999.7
+30,Storage Cabinet,Furniture,399.99,22,4.6,8799.78
